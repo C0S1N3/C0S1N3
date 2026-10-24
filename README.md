@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.png" alt="C0S1N3 // signal lab — oscilloscope waveform, signal chain and market candles" width="100%">
+  <img src="assets/hero.png" alt="C0S1N3 // Signal Lab - oscilloscope waveform, signal chain and market candles" width="100%">
 </div>
 
 <div align="center">
@@ -26,20 +26,20 @@
 
 ```text
 C0S1N3
-通信工程 / 前高中物理教师 / 仪器维修 / AI × 股票投资爱好者
+Communications Engineering / Former High-School Physics Teacher / Instrument Repair / AI & Markets
 ```
 
-> 非 985/211；频谱仪不查学历，信号只看频谱。
+> Non-985/211 university. No elite badge — the spectrum analyzer doesn't check diplomas; it reads the spectrum.
 
 ### `$ cat /proc/c0s1n3`
 
 ```text
-EDU      某双非理工大学 · 通信工程（本科）
-PAST     高中物理教师
-NOW      仪器维修 / 故障诊断
-BENCH    示波器 · 万用表 · 焊台 · 校准
-AI       LLM agents · 本地模型 · 实验
-MARKETS  股票投资 / 把市场当信号
+EDU      Non-985/211 university · B.Eng. in Communications Engineering
+PAST     High-school physics teacher
+NOW      Instrument repair / fault diagnosis
+BENCH    Oscilloscope · DMM · soldering · calibration
+AI       LLM agents · local models · experiments
+MARKETS  Stock investing / market as a signal
 STATUS   still calibrating
 ```
 
@@ -47,44 +47,44 @@ STATUS   still calibrating
 
 ```mermaid
 flowchart LR
-    P[物理] --> C[通信工程]
-    C --> T[高中物理教师]
-    T --> I[仪器维修]
+    P[Physics] --> C[Communications Engineering]
+    C --> T[High-School Physics Teacher]
+    T --> I[Instrument Repair]
     I --> A[AI]
-    I --> M[股票投资]
+    I --> M[Markets]
     A --> Q[AI × Markets]
     M --> Q
     classDef hot fill:#0B1020,stroke:#00E5FF,color:#C9D1D9,stroke-width:1.5px;
     class P,C,T,I,A,M,Q hot;
 ```
 
-> 先测量，再维修。先复现，再优化。先把噪声降下来，再谈收益。
+> Measure first, repair second. Reproduce first, optimize second. Filter the noise before talking returns.
 
 ### `$ cat ~/.plan`
 
 ```text
-[ ] 让 AI 读懂一张电路图
-[ ] 用回测验证一个想法，而不是用想法解释回测
-[ ] 修好那台“用来修仪器”的仪器
-[ ] 把物理解释到高中生也能听懂
+[ ] Teach an AI to read a schematic
+[ ] Validate an idea with a backtest, not a backtest with an idea
+[ ] Repair the instrument that repairs instruments
+[ ] Explain physics well enough for a high-schooler again
 ```
 
 ### `$ ls -la ~/interests`
 
 | channel | note |
 | --- | --- |
-| AI | 把模型当新的示波器：先观察，再下结论。 |
-| Markets | 市场是噪声最大的信号源；先降噪，再谈收益。 |
-| Instruments | 能复现的故障，才叫修好。 |
-| Physics | 把复杂系统讲简单，是另一种调试。 |
+| AI | Treat the model as a new oscilloscope: observe first, conclude second. |
+| Markets | The market is the noisiest signal source. Filter first; talk returns later. |
+| Instruments | A fault is only fixed when it can be reproduced. |
+| Physics | Making a complex system simple is another form of debugging. |
 
 ### `$ ./selected_builds --list`
 
 | build | signal | stack |
 | --- | --- | --- |
-| [scan-watermark-removal](https://github.com/C0S1N3/scan-watermark-removal) | 扫描件像素级降噪：确定性去水印，保留笔迹 | Python / NumPy / Pillow |
-| [boardgame-rulebook-zh](https://github.com/C0S1N3/boardgame-rulebook-zh) | 桌游规则书原位汉化：只擦字、不动图 | PyMuPDF / Pillow |
-| [pata](https://github.com/C0S1N3/pata) | 《爬塔》— Slay the Web 简体中文版 | JavaScript |
+| [scan-watermark-removal](https://github.com/C0S1N3/scan-watermark-removal) | Deterministic pixel cleanup for scans: remove the watermark, keep the ink. | Python / NumPy / Pillow |
+| [boardgame-rulebook-zh](https://github.com/C0S1N3/boardgame-rulebook-zh) | In-place rulebook localization: erase the text, never move the art. | PyMuPDF / Pillow |
+| [pata](https://github.com/C0S1N3/pata) | Slay the Web — a Simplified Chinese localization. | JavaScript |
 
 <div align="center">
   <a href="https://github.com/C0S1N3?tab=repositories"><sub>MORE REPOSITORIES →</sub></a>
@@ -100,10 +100,10 @@ flowchart LR
 ### `$ cat ~/.contact`
 
 ```text
-GitHub Issues / PR — 最可靠的一根信号线。
-If you're into physics, signals, instruments, AI agents, or markets, open a channel.
+GitHub Issues / PR — the most reliable signal line.
+If you work on physics, signals, instruments, AI agents, or markets, open a channel.
 ```
 
 <div align="center">
-  <sub>README.md // v1.0 // calibrated 2026-10 // keep measuring.</sub>
+  <sub>README.md // v1.1 // calibrated 2026-10 // keep measuring.</sub>
 </div>

@@ -63,6 +63,20 @@ flowchart LR
 
 > Measure first, repair second. Reproduce first, optimize second. Filter the noise before talking returns.
 
+### `$ git log --oneline --graph --decorate`
+
+```text
+* 9f3a1c2 (HEAD -> cosmo) feat: instrument repair / fault diagnosis
+* 4b7d0e1 refactor: high-school physics teacher
+* 2c9a8f0 feat: B.Eng. communications engineering
+* 1a0b3d4 init: curiosity
+```
+
+```text
+$ uptime
+up 3 career pivots, 2 pending experiments, 1 calibrated bench, 0 unhandled exceptions
+```
+
 ### `$ cat ~/.plan`
 
 ```text
@@ -72,6 +86,27 @@ flowchart LR
 [ ] Explain physics well enough for a high-schooler again
 [ ] Play a board game without rewriting the rulebook
 [ ] Stop queuing ranked after two losses
+```
+
+### `$ dmesg | tail -5`
+
+```text
+[  OK  ] mounted /dev/curiosity
+[  OK  ] calibrated oscilloscope
+[  OK  ] loaded ai_agents.ko
+[ WARN ] market noise above threshold
+[  OK  ] queued board_game_night
+```
+
+### `$ top -u cosmo`
+
+```text
+PID   %CPU  COMMAND
+001   37.0  ai_agents --experimental
+002   24.0  markets --research
+003   18.0  instrument_repair --bench
+004   11.0  honor_of_kings --ranked
+005   10.0  board_games --rulebook
 ```
 
 ### `$ ls -la ~/interests`
@@ -84,6 +119,16 @@ flowchart LR
 | Physics | Making a complex system simple is another form of debugging. |
 | Board games | BGA/BGG regular; rulebooks, localization, and table chaos. |
 | Honor of Kings | Ranked queue as risk control, tilt management, and teamwork practice. |
+
+### `$ cat ~/.now`
+
+```text
+building   AI agents that can read a schematic
+testing    market ideas with paper backtests
+repairing  something with a broken power rail
+playing    Honor of Kings (ranked) / board games (BGA)
+reading    The Art of Electronics / The Signal and the Noise / Thinking in Systems
+```
 
 ### `$ ./selected_builds --list`
 
@@ -112,5 +157,5 @@ If you work on physics, signals, instruments, AI agents, or markets, open a chan
 ```
 
 <div align="center">
-  <sub>README.md // v1.3 // calibrated 2026-10 // keep measuring.</sub>
+  <sub>README.md // v1.4 // calibrated 2026-10 // keep measuring.</sub>
 </div>

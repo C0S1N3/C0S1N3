@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.png" alt="C0S1N3 // Signal Lab - oscilloscope waveform, signal chain and market candles" width="100%">
+  <img src="assets/hero.png" alt="cosmo // Signal Lab - oscilloscope waveform, signal chain and market candles" width="100%">
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 ### `$ whoami`
 
 ```text
-C0S1N3
+cosmo (@C0S1N3)
 Communications Engineering / Former High-School Physics Teacher / Instrument Repair / AI & Markets
 ```
 
@@ -112,5 +112,5 @@ If you work on physics, signals, instruments, AI agents, or markets, open a chan
 ```
 
 <div align="center">
-  <sub>README.md // v1.2 // calibrated 2026-10 // keep measuring.</sub>
+  <sub>README.md // v1.3 // calibrated 2026-10 // keep measuring.</sub>
 </div>

@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/LAB-SOLDERING-FFB454?style=flat-square&labelColor=0B1020" alt="soldering">
   <img src="https://img.shields.io/badge/LAB-CALIBRATION-7CFF6B?style=flat-square&labelColor=0B1020" alt="calibration">
   <img src="https://img.shields.io/badge/FIELD-MARKETS-F472B6?style=flat-square&labelColor=0B1020" alt="markets">
+  <img src="https://img.shields.io/badge/PLAY-BOARD_GAMES-8B5CF6?style=flat-square&labelColor=0B1020" alt="board games">
+  <img src="https://img.shields.io/badge/PLAY-HONOR_OF_KINGS-F59E0B?style=flat-square&labelColor=0B1020" alt="Honor of Kings">
 </div>
 
 ### `$ whoami`
@@ -40,6 +42,7 @@ NOW      Instrument repair / fault diagnosis
 BENCH    Oscilloscope · DMM · soldering · calibration
 AI       LLM agents · local models · experiments
 MARKETS  Stock investing / market as a signal
+PLAY     Board games · Honor of Kings
 STATUS   still calibrating
 ```
 
@@ -67,6 +70,8 @@ flowchart LR
 [ ] Validate an idea with a backtest, not a backtest with an idea
 [ ] Repair the instrument that repairs instruments
 [ ] Explain physics well enough for a high-schooler again
+[ ] Play a board game without rewriting the rulebook
+[ ] Stop queuing ranked after two losses
 ```
 
 ### `$ ls -la ~/interests`
@@ -77,6 +82,8 @@ flowchart LR
 | Markets | The market is the noisiest signal source. Filter first; talk returns later. |
 | Instruments | A fault is only fixed when it can be reproduced. |
 | Physics | Making a complex system simple is another form of debugging. |
+| Board games | BGA/BGG regular; rulebooks, localization, and table chaos. |
+| Honor of Kings | Ranked queue as risk control, tilt management, and teamwork practice. |
 
 ### `$ ./selected_builds --list`
 
@@ -105,5 +112,5 @@ If you work on physics, signals, instruments, AI agents, or markets, open a chan
 ```
 
 <div align="center">
-  <sub>README.md // v1.1 // calibrated 2026-10 // keep measuring.</sub>
+  <sub>README.md // v1.2 // calibrated 2026-10 // keep measuring.</sub>
 </div>

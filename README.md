@@ -12,12 +12,13 @@
   <img src="https://img.shields.io/badge/LANG-PYTHON-3776AB?style=flat-square&labelColor=0B1020&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/LANG-C-A8B9CC?style=flat-square&labelColor=0B1020&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/LANG-MATLAB-E16737?style=flat-square&labelColor=0B1020" alt="MATLAB">
-  <img src="https://img.shields.io/badge/SYS-LINUX-FCC624?style=flat-square&labelColor=0B1020&logo=linux&logoColor=0B1020" alt="Linux">
+  <img src="https://img.shields.io/badge/LANG-JAVASCRIPT-F7DF1E?style=flat-square&labelColor=0B1020&logo=javascript&logoColor=0B1020" alt="JavaScript">
   <img src="https://img.shields.io/badge/TOOL-GIT-F05032?style=flat-square&labelColor=0B1020&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/AI-PYTORCH-EE4C2C?style=flat-square&labelColor=0B1020&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/DATA-PANDAS-150458?style=flat-square&labelColor=0B1020&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/FIELD-COMMS-22D3EE?style=flat-square&labelColor=0B1020" alt="communications">
+  <img src="https://img.shields.io/badge/FIELD-PHYSICS-A78BFA?style=flat-square&labelColor=0B1020" alt="physics">
   <img src="https://img.shields.io/badge/LAB-OSCILLOSCOPE-00E5FF?style=flat-square&labelColor=0B1020" alt="oscilloscope">
   <img src="https://img.shields.io/badge/LAB-SOLDERING-FFB454?style=flat-square&labelColor=0B1020" alt="soldering">
+  <img src="https://img.shields.io/badge/LAB-CALIBRATION-7CFF6B?style=flat-square&labelColor=0B1020" alt="calibration">
   <img src="https://img.shields.io/badge/FIELD-MARKETS-F472B6?style=flat-square&labelColor=0B1020" alt="markets">
 </div>
 
